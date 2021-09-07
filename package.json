@@ -1,0 +1,27 @@
+{
+  "name": "dm124-aula1-src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform-string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredllaranjo/dm124-aula1-src.git"
+  },
+  "keywords": [
+    "JS",
+    "STRING"
+  ],
+  "author": "FredLaranjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredllaranjo/dm124-aula1-src/issues"
+  },
+  "homepage": "https://github.com/fredllaranjo/dm124-aula1-src#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "useful-string": "0.0.2"
+  }
+}

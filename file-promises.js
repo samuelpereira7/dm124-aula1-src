@@ -11,7 +11,7 @@ const readData = (fileName) => {
 }
 const writeData = (data) => {
     return new Promise((resolve, reject) =>
-    fs.writeFile('new.txt', data + 'callback 1', (error) => {
+    fs.writeFile('C:/new.txt', data + 'callback 1', (error) => {
         if (error) reject(error);
         resolve(data);
     })

@@ -7,7 +7,7 @@ class QuestionsService {
     return new Promise((resolve) => {
       const question = {
         id: ++sequence,
-        status: newQuestion.status || 'new',
+        status: newQuestion.status || 'new2',
         description: newQuestion.description,
         options: newQuestion.options
       };

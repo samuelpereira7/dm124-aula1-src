@@ -8,5 +8,5 @@ function printFileContent(error, data) {
     console.log(data);
 }
 
-fs.readFile('.gitignore', 'utf8', printFileContent);
+fs.readFile('.gitignored', 'utf8', printFileContent);
 console.log('Última instrução');

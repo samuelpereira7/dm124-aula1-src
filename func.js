@@ -8,5 +8,6 @@ function namedFunc() {
 }
 
 var funcInVar = () => {args.forEach(arg => console.log(arg))};
+args.forEach(arg => console.log('-'+arg));
 namedFunc();
 funcInVar();

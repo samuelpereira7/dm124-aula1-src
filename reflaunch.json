@@ -33,6 +33,7 @@
             ],
             "program": "${workspaceFolder}\\calc.js",
             "args": ["+", "1", "2", "3"]
+        
             
         }
     ]

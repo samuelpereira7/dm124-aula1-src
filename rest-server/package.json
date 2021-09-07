@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "start": "node ./src/server",
-    "start:dev": "nodemon ./src/server"
+    "dev": "nodemon ./src/server"
   },
   "dependencies": {
     "cors": "^2.8.5",
